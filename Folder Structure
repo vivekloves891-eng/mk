@@ -1,0 +1,13 @@
+kv-luxury/
+│
+├── index.html
+├── about.html
+├── collections.html
+├── vault.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+└── assets/
+    └── (add images later)
